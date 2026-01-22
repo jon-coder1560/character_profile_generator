@@ -67,7 +67,7 @@ Stats:
 
 Overall Power Level: 84.0
 
-"May your arrows fly true."
+"May Arion Nightwind's arrows fly true."
 ----------------------------------------
 ```
 ---
